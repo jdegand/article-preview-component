@@ -56,4 +56,4 @@ Users should be able to:
 ### Useful resources
 
 - [W3 Schools](https://www.w3schools.com/css/css_tooltip.asp) - Tooltips
-- [CSS Tricks](https://css-tricks.com/scale-svg/)
+- [CSS Tricks](https://css-tricks.com/scale-svg/) - scale svg
